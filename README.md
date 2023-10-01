@@ -73,7 +73,8 @@ This project is an image classification model that distinguishes between images 
 - Further improvements and fine-tuning can be explored to enhance model accuracy and performance.
 
 For more detailed information, please refer to the project documentation and code.
-```
 
-You can copy and paste this content into your GitHub Markdown file, and then you can edit it directly on GitHub as needed.
-If youn have any query/feedback feel free to contact rshmrnjnnayak@gmail.com
+## feedback 
+
+```
+ rshmrnjnnayak@gmail.com
